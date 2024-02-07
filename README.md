@@ -16,5 +16,5 @@ Please version as you evolve the data model and the requirements based on use ca
 - Our team's understanding of the needs of both our users, and the Synapse product itself with evolve with time.
 - We will maintain former versions and ask that semantic versioning is used when changes are made to the schema. Particularly where breaking changes are concerned.
 
-Contact (core@synavate.tech)[core@synavate.tech] for any queries or join our slack channel!
+Contact (core@synavate.tech) for any queries or join our slack channel!
 
